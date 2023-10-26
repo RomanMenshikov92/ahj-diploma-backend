@@ -1,0 +1,22 @@
+{
+  "name": "ahj-diploma-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "forever index.js",
+    "watch": "forever -w index.js"
+  },
+  "author": "roman",
+  "license": "ISC",
+  "dependencies": {
+    "forever": "^4.0.3",
+    "koa": "^2.14.2",
+    "koa-body": "^6.0.1",
+    "koa-static": "^5.0.0",
+    "uuid": "^9.0.1"
+  },
+  "engines": {
+    "node": ">=16.0.0 <19.0.0"
+  }
+}
