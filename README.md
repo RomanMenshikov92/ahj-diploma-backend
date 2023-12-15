@@ -1,11 +1,11 @@
 # Дипломное задание к курсу «Продвинутый JavaScript в браузере». Chaos Organizer
 ---
 
-AppVeyor: [![Build status](https://ci.appveyor.com/api/projects/status/9s0lwxgxop7gnpe5?svg=true)](https://ci.appveyor.com/project/RomanMenshikov92/ahj-diploma-frontend)
+AppVeyor: [![Build status](https://ci.appveyor.com/api/projects/status/8er4u22xu4se9e01?svg=true)](https://ci.appveyor.com/project/RomanMenshikov92/ahj-diploma-frontend-l9q1j)
 
-GutHub: [LINK-WEBSITE](https://romanmenshikov92.github.io/ahj-diploma-frontend/)
+GutHub: [LINK-WEBSITE](https://romanmenshikov92.github.io/ahj_diploma-frontend//)
 
-Frontend-project: [LINK-FRONTEND](https://github.com/RomanMenshikov92/ahj-diploma-frontend)
+Frontend-project: [LINK-FRONTEND](https://romanmenshikov92.github.io/ahj_diploma-frontend/)
 
 Backend-project: [LINK-BACKEND](https://github.com/RomanMenshikov92/ahj-diploma-backend)
 
